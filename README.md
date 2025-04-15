@@ -1,4 +1,4 @@
-# Priti-Parmar
+# README.md
 
 # 💫 About Me:
 I'm currently working with Front-end Development 
